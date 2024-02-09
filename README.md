@@ -28,6 +28,3 @@ Assurez-vous de configurer les paramètres appropriés dans les fichiers de conf
 - Vérifiez les dépendances du projet pour garantir un bon fonctionnement.
 - Assurez-vous d'avoir une connexion Internet stable lors de l'installation des dépendances.
 - Pour toute question ou problème, n'hésitez pas à consulter la documentation du projet ou à contacter l'équipe de développement.
-
-Nous vous remercions de choisir Movies-Heaven. Nous sommes impatients de recevoir vos retours et contributions.
-
